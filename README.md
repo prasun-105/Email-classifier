@@ -40,4 +40,4 @@ A machine learning project that classifies emails as **Spam** or **Ham** (Not Sp
 
 ## Author
 
-Developed by [Nabadiganta Acharjee](https://github.com/naba-diganta03)
+Developed by [Koena Chakraborty](https://github.com/koena01)
