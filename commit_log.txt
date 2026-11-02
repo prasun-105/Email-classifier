@@ -25,3 +25,6 @@ timestamp: Mon Nov  2 21:04:45 IST 2026
 # Commit 9: Update dataset path
 timestamp: Mon Nov  2 21:04:45 IST 2026
 
+# Commit 10: Add logging support
+timestamp: Mon Nov  2 21:04:45 IST 2026
+
