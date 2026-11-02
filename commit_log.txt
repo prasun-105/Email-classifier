@@ -85,3 +85,6 @@ timestamp: Mon Nov  2 21:04:46 IST 2026
 # Commit 29: Improve email parsing
 timestamp: Mon Nov  2 21:04:46 IST 2026
 
+# Commit 30: Fix encoding issue
+timestamp: Mon Nov  2 21:04:46 IST 2026
+
