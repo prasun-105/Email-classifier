@@ -82,3 +82,6 @@ timestamp: Mon Nov  2 21:04:46 IST 2026
 # Commit 28: Add test cases
 timestamp: Mon Nov  2 21:04:46 IST 2026
 
+# Commit 29: Improve email parsing
+timestamp: Mon Nov  2 21:04:46 IST 2026
+
