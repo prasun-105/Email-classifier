@@ -73,3 +73,6 @@ timestamp: Mon Nov  2 21:04:46 IST 2026
 # Commit 25: Add input validation
 timestamp: Mon Nov  2 21:04:46 IST 2026
 
+# Commit 26: Fix null value handling
+timestamp: Mon Nov  2 21:04:46 IST 2026
+
