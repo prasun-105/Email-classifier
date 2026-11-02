@@ -100,3 +100,6 @@ timestamp: Mon Nov  2 21:04:46 IST 2026
 # Commit 34: Fix file path handling
 timestamp: Mon Nov  2 21:04:46 IST 2026
 
+# Commit 35: Improve error messages
+timestamp: Mon Nov  2 21:04:46 IST 2026
+
